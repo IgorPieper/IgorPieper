@@ -23,7 +23,7 @@ class IgorPieper:
         }
 
     def currently_learning(self):
-        return "Conducting training sessions in front of large audiences"
+        return "Expanding AI knowledge and conducting training sessions in front of large audiences"
 
 me = IgorPieper()
 ```
