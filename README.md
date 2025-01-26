@@ -1,4 +1,4 @@
-```
+``` python
 class IgorPieper:
     def __init__(self):
         self.skills = {
