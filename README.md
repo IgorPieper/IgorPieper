@@ -30,8 +30,12 @@ me = IgorPieper()
 
 ⚙️ Języki i Technologie
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,bootstrap,c,cs,cpp,css,html,java,js,less,php,py,selenium)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
 
  🛠️ Narzędzia
 
-[![My Skills](https://skillicons.dev/icons?i=figma,git,github,idea,kali,phpstorm,pycharm)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
+
+💬 Media Społecznościowe
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=rust,surrealdb,actix,yew&titles=true)
