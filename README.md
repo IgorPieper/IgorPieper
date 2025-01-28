@@ -1,31 +1,20 @@
 ``` python
-class IgorPieper:
-    def __init__(self):
-        self.skills = {
-           "Programming": [
-                "Python (Pandas, Selenium, Tkinter, PyGame)",
-                "Java",
-                "C++",
-                "Front-end (HTML, CSS, JavaScript, Bootstrap)",
-                "Back-end (Spring Boot, PHP)",
-                "Database Operations",
-                "Git"
-            ],
-            "Other": [
-                "Public speaking",
-                "Event organization",
-                "Team management",
-                "Graphic design (Canva)",
-                "Linux & Shell scripting",
-                "Self-improvement",
-                "Exploring new technologies"
-            ]
-        }
+import random
 
-    def currently_learning(self):
-        return "Expanding AI knowledge and conducting training sessions in front of large audiences"
+class IgorPieper:
+    def greet(self):
+        messages = [
+            "Hey there! 👋 Explore my projects and let's collaborate!",
+            "Welcome! 🚀 Take a look at my profile and get inspired!",
+            "Hi! 🌟 I'm always up for exciting projects. Check it out!",
+            "Hello! 🧑‍💻 Curious about my work? Dive into my profile!",
+            "Hi there! 🎯 Let's create something awesome together!"
+        ]
+        return random.choice(messages)
 
 me = IgorPieper()
+
+print(me.greet())
 ```
 
 ⚙️ Języki i Technologie
