@@ -33,8 +33,3 @@ print(me.greet())
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,blender,davinci,gamemakerstudio,googleanalytics,raspberrypi&titles=true)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IgorPieper/IgorPieper/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IgorPieper/IgorPieper/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/IgorPieper/output/pacman-contribution-graph.svg">
-</picture>
