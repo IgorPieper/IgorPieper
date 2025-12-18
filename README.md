@@ -46,10 +46,6 @@ print(me.greet())
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=canva,chatgpt,excel,figma,git,github,gradle,huggingface,idea,jira,kaggle,kali,maven,phpstorm,pycharm,renpy,wireshark,word&titles=true)
 
-💬 Dostępny na
-
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=discord,facebook,gmail,instagram,linkedin,youtube&titles=true)
-
 🎯 Obszary Rozwoju
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,blender,davinci,gamemakerstudio,googleanalytics,raspberrypi&titles=true)
