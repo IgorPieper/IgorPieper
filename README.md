@@ -33,3 +33,4 @@ print(me.greet())
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=androidstudio,blender,davinci,gamemakerstudio,googleanalytics,raspberrypi&titles=true)
 
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
